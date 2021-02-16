@@ -1,0 +1,7 @@
+*checkpoint*/
+*.log
+*.com
+*.pyo
+*.pyc
+*~
+._*
