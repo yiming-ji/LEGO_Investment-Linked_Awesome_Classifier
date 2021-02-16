@@ -13,9 +13,7 @@
 This project was inspired by a random encounter with the website  https://www.bricklink.com/. Bricklink is the world's largest secondary marketplace to buy and sell LEGO products. After some research, it was discovered that not only can LEGO be a viable alternative investment, but its annualized investment returns for the past 10 years have also been very comparable to the S&P500 index.
 
 &nbsp;
-<div>
-<img src="attachment:image.png" width="500"/>
-</div>
+![](LEGO_vs_SP500.png)
 &nbsp;
 
 Just like some stocks perform better than others, picking the right LEGO set will also generate better returns. With that, a business problem was framed as such: 
